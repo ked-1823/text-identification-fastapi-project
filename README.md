@@ -12,6 +12,9 @@ DistilBERT (Transformer model)
 
 🚀 Live Demo: https://huggingface.co/spaces/kedar18/distil-bert-model
 
+
+FastAPI on render: https://text-identification-fastapi-project.onrender.com/docs
+
 This project deploys a DistilBERT model using Gradio on Hugging Face Spaces.
 
 example prediction : 
